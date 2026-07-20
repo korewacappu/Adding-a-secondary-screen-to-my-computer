@@ -1,0 +1,30 @@
+Hallo!
+
+Thank you for reading my project :D Sorry for the messy note taking. I am writing all of this after I'm done the project.
+
+June 19th
+First started project, only got the screen to light up
+
+June 23th 
+Can change the screen now
+solved wiring issue
+
+July 4th
+Got a solder breadboard and soldered everything onto there
+
+July 5
+Realized the solder wasn't good, resoldered
+
+July 8th
+got it in the computer for the first time!! 
+I cut the usb from the usb port & microusb cable wire to solder on directly so everything can be in the computer(no externals)
+
+July 15th
+First direct solder
+
+July 16th
+Seconds times way better
+
+July 17th
+Finally got it to display all within the computer
+
